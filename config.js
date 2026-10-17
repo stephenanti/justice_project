@@ -74,8 +74,8 @@ let divChapter5 =
 ;
 
 var config = {
-  style: "mapbox://styles/srjouppi/cl5ie2zfq000s14o36wcfrjzu",
-  accessToken: "pk.eyJ1Ijoic3Jqb3VwcGkiLCJhIjoiY2t4OTd2YnNvMmExcDJucG14cHB6ajJhOCJ9.YFxNr_U53BASB7Eb3IIGAQ",
+  style: "mapbox://styles/mapbox/light-v10",
+  accessToken: "pk.eyJ1Ijoic3RlcGhlbmFudGkiLCJhIjoiY2x5M2ZndmtqMDM4YTJrb2ozN24zb3JmbCJ9.qSuAh5SE-sou1NQF3xYUGQ",
   showMarkers: false,
   markerColor: "#3FB1CE",
   theme: "light",
